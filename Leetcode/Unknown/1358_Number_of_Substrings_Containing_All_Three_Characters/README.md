@@ -6,7 +6,7 @@
 - **Runtime:** 10ms
 - **Memory:** 10ms
 - **Problem Link:** [https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)
-- **Submission Date:** 2026-07-12 08:27:18 UTC
+- **Submission Date:** 2026-07-12 08:27:25 UTC
 - **Tags:** Hash Table, String, Sliding Window
 
 ---

@@ -5,7 +5,6 @@ class Solution {
         int[] count = new int[128];
         boolean[] used = new boolean[128];
 
-        // Count frequency of each character
         for (char c : text.toCharArray()) {
             count[c]++;
         }
@@ -13,12 +12,9 @@ class Solution {
         for (char c : text.toCharArray()) {
             count[c]--;
 
-            // Skip if already included
             if (used[c]) {
                 continue;
             }
-
-            // Maintain lexicographically smallest order
             while (sb.length() > 0 &&
                    last(sb) > c &&
                    count[last(sb)] > 0) {

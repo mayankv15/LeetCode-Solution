@@ -4,9 +4,9 @@
 - **Difficulty:** Medium
 - **Language:** Unknown
 - **Runtime:** 0 ms
-- **Memory:** N/A
+- **Memory:** 2ms
 - **Problem Link:** [https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)
-- **Submission Date:** 2026-07-19 18:42:30 UTC
+- **Submission Date:** 2026-07-19 18:42:54 UTC
 - **Tags:** String, Stack, Greedy, Monotonic Stack
 
 ---

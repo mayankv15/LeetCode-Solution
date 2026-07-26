@@ -6,7 +6,7 @@
 - **Runtime:** 156ms
 - **Memory:** 156ms
 - **Problem Link:** [https://leetcode.com/problems/maximize-active-section-with-trade-i/](https://leetcode.com/problems/maximize-active-section-with-trade-i/)
-- **Submission Date:** 2026-07-21 19:22:51 UTC
+- **Submission Date:** 2026-07-26 02:18:12 UTC
 - **Tags:** String, Enumeration
 
 ---

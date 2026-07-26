@@ -3,10 +3,10 @@
 - **Problem Number:** 628
 - **Difficulty:** Easy
 - **Language:** Unknown
-- **Runtime:** N/A
+- **Runtime:** 0 ms
 - **Memory:** N/A
 - **Problem Link:** [https://leetcode.com/problems/maximum-product-of-three-numbers/](https://leetcode.com/problems/maximum-product-of-three-numbers/)
-- **Submission Date:** 2026-07-26 04:01:30 UTC
+- **Submission Date:** 2026-07-26 04:01:51 UTC
 - **Tags:** Array, Math, Sorting
 
 ---
